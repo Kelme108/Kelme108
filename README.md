@@ -1,48 +1,32 @@
-<h2 align="left">Hi 👋! My name is Luiz Kelme and I'm a Data Science, from Brasil </h2>
+# Olá, eu sou Luiz Kelme! 👋
 
-###
+Sou estudante de Tecnologia com conhecimentos em programação em linguagens como Python e Java. Atualmente, estou focado principalmente em Machine Learning (ML) e Inteligência Artificial (IA) utilizando o Jupyter Notebook.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kelme108&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kelme108&locale=br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## 🚀 Tecnologias e Ferramentas
 
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonaws/amazonaws-original.svg" height="30" alt="aws logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo" />
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffffff)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=ffffff)
+![Jupyter](https://img.shields.io/badge/Jupyter-DA5B0C?style=flat&logo=jupyter&logoColor=ffffff)
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazonaws&logoColor=ffffff)
+![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=ffffff)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" />
 
 
-###
+- **Linguagens de Programação:** Python, Java
+- **Ferramentas:** Jupyter Notebook, IntelliJ IDEA
+- **Áreas de Interesse:** Machine Learning, Inteligência Artificial
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+## 🌱 Estou Aprendendo
 
-###
+Atualmente, estou aprofundando meus conhecimentos em:
 
-<br clear="both">
+- **Machine Learning:** Algoritmos de aprendizado de máquina, modelagem de dados e aplicações práticas de IA.
+- **Backend:** Desenvolvimento de aplicações escaláveis com Java, arquiteturas de microsserviços e integração com bancos de dados.
+- **AWS:** Serviços da AWS, incluindo EC2, S3 e RDS, para criar e gerenciar infraestruturas em nuvem.
 
-<img src="https://raw.githubusercontent.com/Kelme108/Kelme108/output/snake.svg" alt="Snake animation" />
+## 📫 Como me Encontrar
 
-###
+- [LinkedIn](linkedin.com/in/luiz-kelme-6a388b224/)
+- [Email](kelme726@gmail.com)
+
+Sinta-se à vontade para entrar em contato ou conferir meus projetos!
