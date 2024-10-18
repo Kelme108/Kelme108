@@ -6,6 +6,9 @@ Sou estudante de Tecnologia com conhecimentos em programação em linguagens com
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=ffffff)
+![Jupyter](https://img.shields.io/badge/Jupyter-DA5B0C?style=flat&logo=jupyter&logoColor=ffffff)
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazonaws&logoColor=ffffff)
+![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=ffffff)
 
 - **Linguagens de Programação:** Python, Java
 - **Ferramentas:** Jupyter Notebook
