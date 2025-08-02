@@ -17,13 +17,13 @@ Experienced in Java and Python programming, with a solid background in developin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo" />
 
   <!-- Kali Linux -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali-linux/kali-linux-original.svg" height="30" alt="kali linux logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Kali_Linux_Logo.svg" height="30" alt="kali linux logo" />
   <!-- Linux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
   <!-- Windows -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows logo" />
-  <!-- Network (Ethernet) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/network/network-original.svg" height="30" alt="network logo" />
+  <!-- Network (ethernet) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethernet/ethernet-original.svg" height="30" alt="network logo" />
   <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
   <!-- MongoDB -->
@@ -33,14 +33,15 @@ Experienced in Java and Python programming, with a solid background in developin
   <!-- Google Cloud -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="google cloud logo" />
   <!-- Nmap -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nmap/nmap-original.svg" height="30" alt="nmap logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Nmap_Logo.svg" height="30" alt="nmap logo" />
   <!-- Metasploit -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/metasploit/metasploit-original.svg" height="30" alt="metasploit logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Metasploit_logo.svg" height="30" alt="metasploit logo" />
   <!-- WiFi -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WiFi_Logo.svg" height="30" alt="wifi logo" />
   <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
 </div>
+
 
 
 
