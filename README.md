@@ -20,13 +20,13 @@ Experienced in Java and Python programming, with a solid background in developin
   <!-- Security & Network Tools -->
   <img src="https://nmap.org/images/nmap-logo-256x256.png" height="40" alt="Nmap" title="Nmap" />
   <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" height="40" alt="Metasploit" title="Metasploit" />
-  <img src="https://portswigger.net/content/images/logos/burp-suite-professional.svg" height="40" alt="Burp Suite" title="Burp Suite" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg" height="40" alt="Burp Suite" title="Burp Suite" style="filter: invert(0.2);" />
   <img src="https://www.wireshark.org/assets/icons/wireshark-fin@2x.png" height="40" alt="Wireshark" title="Wireshark" />
   <!-- Databases -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
   <!-- Cloud & Infrastructure -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" title="Amazon Web Services" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="AWS" title="Amazon Web Services" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" title="Google Cloud Platform" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" title="Kubernetes" />
