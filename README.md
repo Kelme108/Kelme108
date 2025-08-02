@@ -10,17 +10,17 @@ Experienced in Java and Python programming, with a solid background in developin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Kali_Linux_Logo.svg" height="30" alt="kali linux logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Kali_Linux_Logo.svg" height="30" alt="kali linux logo" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/network/network-original.svg" height="30" alt="network logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethernet/ethernet-original.svg" height="30" alt="network logo" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="aws logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="google cloud logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nmap/nmap-original.svg" height="30" alt="nmap logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/metasploit/metasploit-original.svg" height="30" alt="metasploit logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wifi/wifi-original.svg" height="30" alt="wifi logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Nmap_Logo.svg" height="30" alt="nmap logo" />
+  <img src="https://github.com/rapid7/metasploit-framework/raw/master/docs/metasploit-icon.png" height="30" alt="metasploit logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WiFi_Logo.svg" height="30" alt="wifi logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
 </div>
 
